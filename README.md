@@ -25,7 +25,7 @@ I Love code and create new stuff, i like too much to discover new technologies a
 <hr />
 
 <div>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigomoura84&show_icons=false&theme=dark&hide=&count_private=true" style="max-width: 100%;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigomoura84&show_icons=false&theme=dark&&hide=stars,prs,issues,contribs&count_private=true" style="max-width: 100%;">
   <!--
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigomoura84&layout=compact&langs_count=6&theme=dark" style="max-width: 100%;">
 -->
